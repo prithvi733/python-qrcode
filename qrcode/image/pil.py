@@ -1,3 +1,5 @@
+Name: V.Prithviraj
+Registration no:212222100038
 import qrcode.image.base
 from PIL import Image, ImageDraw
 
